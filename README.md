@@ -34,7 +34,7 @@ El repositorio contiene los siguientes elementos:
 
 - ETL en Python: Un proceso de Extracción, Transformación y Carga de datos en Python para preparar y limpiar los datos originales.
 
-- Exploratory Data Analysis (EDA) en Python: Un análisis exploratorio de datos en Python que examina y visualiza las tendencias y patrones en los datos.
+- Exploratory Data Analysis (EDA) en Python: Un análisis exploratorio de datos en Python que examina y visualiza las tendencias y patrones en los datos. Es importante recalcar que algunos procesos correspondientes al ETL, principalmente el cambio de unidades de algunas tablas, fueron realizadas en el EDA.
 
 - KPIs: Dos KPIs clave, uno de acuerdo a la consigna y otro adicional que busca aumentar el acceso a Internet en las regiones noroeste y noreste de Argentina.
 
@@ -45,12 +45,14 @@ El repositorio contiene los siguientes elementos:
 Cómo Calcular el KPI
 Para calcular el KPI, se utiliza la fórmula mencionada previamente. El KPI se calcula para cada provincia y se interpreta como el porcentaje de aumento en el acceso a Internet en esa provincia para el próximo trimestre. El informe en Power BI proporciona visualizaciones claras de estos KPIs y sus tendencias a lo largo del tiempo.
 
+Una de las conclusiones interesantes que pude extraer de los datos es que las tecnologías que más crecimiento han sufrido en los últimos años son el cablemodem y la fibra óptica. Sin enbargo, la fibra óptica tiene muchísimo más potencial para crecer en los próximos años, especialmente en áreas donde su acceso no resulta tan complicado, por lo que es una oportunidad de inversión que no debe ser pasada por alto. Es importante recalcar que la fibra óptica no sólo va a llenar los espacios donde no haya conexiones preexistentes a internet, sino que tiene el potencial, y de hecho también lo está haciendo, de reemplazar a las tecnologías anteriores que presentan rendimientos muy inferiores.
+
 
 ## Fuente de Datos
 Los datos se han obtenido a través de conjuntos de datos principales y complementarios. Se ha utilizado una API para traer los datos necesarios. La combinación de estos conjuntos de datos ha permitido realizar un análisis más completo.
 
 ## Conclusiones
-El proyecto demuestra la capacidad de calcular y visualizar KPIs clave para evaluar el aumento en el acceso a Internet en diferentes provincias de Argentina. Además, a partir de la información extraída de los datos, queda claro que la conectividad a través de internet en Argentina tiene mucho crecimiento por delante. Mi tarea era desempeñar un papel como empleado de una empresa de internet, y en ese rol pude concluir que hay un potencial inmenso de mercado en Argentina en lo que respecta, no sólo a la expansión de las conexiones (principalmente en las áreas alejadas de las ciudades grandes del país), sino también a las nuevas tecnlogías que ofrecen una inmensa mejoría en la calidad de las coenxiones, como la fibra óptica, para las áreas ya conectadas al paradigma del internet.
+El proyecto demuestra la capacidad de calcular y visualizar KPIs clave para evaluar el aumento en el acceso a Internet en diferentes provincias de Argentina. Además, a partir de la información extraída de los datos, queda claro que la conectividad a través de internet en Argentina tiene mucho crecimiento por delante. Mi tarea era desempeñar un papel como empleado de una empresa de internet, y en ese rol pude concluir que hay un potencial inmenso de mercado en Argentina en lo que respecta, no sólo a la expansión de las conexiones (principalmente en las áreas alejadas de las ciudades grandes del país), sino también a las nuevas tecnlogías que ofrecen una inmensa mejoría en la calidad de las conexiones, como la fibra óptica, para las áreas ya conectadas al paradigma del internet.
 
 Espero que este proyecto sea de utilidad y que sirva como ejemplo de análisis de datos en un entorno simulado. Si tienes alguna pregunta o comentario, no dudes en ponerte en contactarme a través de este repositorio o mi linkedin. ¡Muchas gracias por visitar el proyecto!
 
