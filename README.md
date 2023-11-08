@@ -19,16 +19,18 @@ eliminar datos duplicados y revisar outliers, para así poder crear un dashboard
 El proyecto se ha desarrollado utilizando herramientas como Python, SQL, Power BI y técnicas de análisis de datos.
 
 ## Descripción del Proyecto
-El proyecto se centra en el cálculo de un KPI (Indicador Clave de Desempeño) que mide el aumento en el acceso a Internet por cada 100 hogares en distintas provincias de Argentina. El cálculo se realiza mediante la siguiente fórmula:
+El proyecto se centra en el cálculo de dos KPI (Indicador Clave de Desempeño):
+- El primero mide el aumento en el acceso a Internet por cada 100 hogares en distintas provincias de Argentina. El cálculo se realiza mediante las siguientes fórmula:
 
-
-KPI = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100
+KPI_1 = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100
 Donde:
 
 "Nuevo acceso" se refiere al número de hogares con acceso a Internet después del próximo trimestre.
 "Acceso actual" se refiere al número de hogares con acceso a Internet en el trimestre actual.
-El resultado del KPI indica el porcentaje de aumento en el acceso a Internet en cada provincia para el próximo trimestre.
+El resultado del KPI_1 indica el porcentaje de aumento en el acceso a Internet en cada provincia para el próximo trimestre.
 
+- El segundo Kpi(KPI_2) plantea como objetivo un crecimiento de 8% de los accesos a internet cada 100 hogares, para el año 2022 con respecto al año 2021 para las zonas de noroeste y nordeste del país, ya que de acuerdo al análisis hecho sobre los datos y la información extraída de estos, son las regiones del país que presentan un índice de conectividad y acceso a internet más bajo. Me pareció importante hacer este análisis, ya que hoy en día la posibilidad de conexión y acceso a internet pueden ser consideradas marcas de una sociedad igualitaria, dada la magnitud de esta herramienta y el impacto que puede tener, y de hecho tiene, en la vida de las personas. 
+ 
 ## Contenido del Repositorio
 El repositorio contiene los siguientes elementos:
 
