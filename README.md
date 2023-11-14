@@ -65,5 +65,5 @@ Espero que este proyecto sea de utilidad y que sirva como ejemplo de análisis d
 </a>
 
 
-Tecnologías utilizadas
+## Tecnologías utilizadas:
 Python | Pandas | Matplotlib | Seaborn | SQL | Power BI |
