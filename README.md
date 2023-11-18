@@ -6,10 +6,11 @@
 1. [Introducción](#introduccion)
 2. [Descripción del Proyecto](#descripción-del-proyecto)
 3. [Contenido del Repositorio](#contenido-del-repositorio)
-4. [Fuente de Datos](#fuente-de-datos)
-5. [Conclusiones](#conclusiones)
-6. [Contacto](#contacto)
-7. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+4. [Dashboard](#dashboard)
+5. [Fuente de Datos](#fuente-de-datos)
+6. [Conclusiones](#conclusiones)
+7. [Contacto](#contacto)
+8. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 
 ## Introducción
 Este repositorio contiene un proyecto de análisis de datos que tiene como objetivo evaluar una serie de datasets originarios de https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/ acerca de las telecomunicaciones en Argentina.
@@ -48,6 +49,18 @@ Cómo Calcular el KPI
 Para calcular el KPI, se utiliza la fórmula mencionada previamente. El KPI se calcula para cada provincia y se interpreta como el porcentaje de aumento en el acceso a Internet en esa provincia para el próximo trimestre. El informe en Power BI proporciona visualizaciones claras de estos KPIs y sus tendencias a lo largo del tiempo.
 
 Una de las conclusiones interesantes que pude extraer de los datos es que las tecnologías que más crecimiento han sufrido en los últimos años son el cablemodem y la fibra óptica. Sin enbargo, la fibra óptica tiene muchísimo más potencial para crecer en los próximos años, especialmente en áreas donde su acceso no resulta tan complicado, por lo que es una oportunidad de inversión que no debe ser pasada por alto. Es importante recalcar que la fibra óptica no sólo va a llenar los espacios donde no haya conexiones preexistentes a internet, sino que tiene el potencial, y de hecho también lo está haciendo, de reemplazar a las tecnologías anteriores que presentan rendimientos muy inferiores.
+
+## Dashboard
+El dashboard del proyecto consiste en un informe interactivo en Power BI que muestra visualizaciones de los KPIs y otros datos relevantes para el análisis. Lamentablemente no se puede compartir acá directamente, por lo que las siguientes imágenes no van a ser interactivas, pero a continuación dejo algunas imágenes de cómo se veían tanto el dashboard principal como los KPIs:
+
+### - Dashboard principal
+![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/42e0286b-71e1-44dd-8b81-7b6f33e893df)
+
+### - Dashboard KPI 1:
+![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/71e6a4ac-e62e-4948-90fd-e031e5063c0f)
+
+### - Dashboard KPI 2:
+![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/35408930-3154-4239-af2f-fe56b061e187)
 
 
 ## Fuente de Datos
